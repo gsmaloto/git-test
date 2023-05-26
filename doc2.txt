@@ -1,1 +1,2 @@
 this is a doc2
+this is now updated
